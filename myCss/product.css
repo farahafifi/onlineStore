@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.product-images{
+    display: flex;
+    flex-direction: column;
+    
+}
+.product-images img{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+
+}
+
+.product-card{
+    position: absolute;
+    top: 85%;
+}
+
+.iconColor{
+    color: black;
+    background-color: black;
+}

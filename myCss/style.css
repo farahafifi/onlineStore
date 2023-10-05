@@ -1,0 +1,14 @@
+
+.containerpsimg{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.psFont{
+    font-size: 80;
+}
+
+.row{
+    justify-content: space-between;
+}

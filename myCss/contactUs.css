@@ -1,0 +1,39 @@
+.contbg{
+    background-image: url('/Images/contactus-1.jpg');
+    background-position: center;
+    margin-top: 4%;
+}
+
+.lightbox{
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
+
+.formcontUs{
+    position: absolute;
+    top: 78px;
+    display: flex;
+    width: 476px;
+}
+.formcontUs1{
+    position: absolute;
+    top: 142px;
+}
+.formcontUs2{
+    position: absolute;
+    top: 246px;
+}
+
+.formemail{
+    width: 294px;
+}
+.formtxtarea{
+    width: 292px;
+    height: 150px;
+}
+.formbtn{
+    position: absolute;
+    top: 87%;
+    left: 143px;
+}
